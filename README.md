@@ -102,7 +102,7 @@ Represents vehicle record node in a B+ Tree.
 ## 📁 File Structure
 
 ```text
-SmartCarParkingSystem/
+Smart-Car-Parking-System-Using-BPLus-Trees/
 ├── program.c
 ├── inputForVehicle.txt
 ├── inputForSpaces.txt
