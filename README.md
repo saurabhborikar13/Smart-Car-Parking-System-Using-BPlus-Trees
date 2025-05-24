@@ -89,8 +89,7 @@ Represents vehicle record node in a B+ Tree.
 - Updates the vehicle’s total hours and payment stats.
 
 ### 4. Sorting & Display
-- Sorts data based on time, payments, and space metrics using in-order B+ Tree traversal.
-- Displays summary reports.
+- Sorts data based on payments, parking count, revenue using linked list.
 
 ### 5. Exit and Save
 - On `close` command:
